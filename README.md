@@ -11,7 +11,8 @@
 <li>Real-time total bill summary.</li>
 </ul>
 <h2>Technologies Used</h2>
-<ul>React: For building the user interface.</li>
+<ul>
+<li>React: For building the user interface.</li>
 <li>Context API: For state management across components.</li>
 <li>React Router DOM: For seamless navigation between pages.</li>
 <li>Tailwind CSS: For styling the app with a minimal, responsive design.</li>
